@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/elouenD/lbaAPI/issues"
   },
-  "homepage": "https://github.com/elouenD/lbaAPI#readme"
+  "homepage": "https://github.com/elouenD/lbaAPI#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
