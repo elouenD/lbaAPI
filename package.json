@@ -1,0 +1,22 @@
+{
+  "name": "lbaapi",
+  "version": "1.0.0",
+  "description": "API for the project lba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elouenD/lbaAPI.git"
+  },
+  "keywords": [
+    "server.http.api.rest"
+  ],
+  "author": "Elouen Dumas-Pilhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elouenD/lbaAPI/issues"
+  },
+  "homepage": "https://github.com/elouenD/lbaAPI#readme"
+}
